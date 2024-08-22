@@ -21,7 +21,10 @@ The company is experiencing significant variances between its budgeted and actua
 - Data Arangement - In this project i am using two master data set. Actual and Budget. After understanding the data as per business requrement have executed majority ETL part in excel to reduce the data redundency from the fact table creating five dimnetion tables connecting them throug primary and foregin key. After completion of all ETL process saved the file in CSV format and imported it to Power Bi Dextop. Rest ETL part is done on Power Query.  
  
 
--Data Modeling - 
+- Data Modeling - All the modeling part is done on Power bi dextop model view. In this project i have two fact table which is connected with comon dimnetion tables.
+
+![Modeling ](https://github.com/user-attachments/assets/dd7a58a1-7935-49bb-8490-f82e209ffa8d)
+
 
 ### Defining Problem - We Are Looking For Dashboard where we can check our Financial Performance, How we can Optimize our Business and Budgeting 
 
